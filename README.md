@@ -8,7 +8,7 @@ https://serooshsaba@github.io
 📫 How to reach me:
 email: serooshsaba@gmail.com
 
-🌱 I’m currently learning:
+🌱 I’m currently:
 * Refining my ReactJs skills
 * .NET
 * Want to learn Azure and it's products
