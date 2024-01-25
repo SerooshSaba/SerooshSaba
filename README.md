@@ -1,19 +1,4 @@
-### Hi there 👋
-
-I'm Seroosh Saba, a fullstack developer based in Oslo, Norway.
-
-You might want to check out my latest project i have been working on:
-https://serooshsaba@github.io
-
-📫 How to reach me:
-email: serooshsaba@gmail.com
-
-🌱 I’m currently:
-* Refining my ReactJs skills
-* .NET
-* Want to learn Azure and it's products
-* Learning about the current standard for Javascript development
-
+### Welcome 👋
 
 <!--
 
